@@ -1,4 +1,4 @@
-#Resume
+**Resume**
 1. **Grigorieva Yulya**
 2. e-mail: <grigorieva.yulya@gmail.com>, mobille phone: +375297831414
 3. *Goal*: to become a good front-end developer.
